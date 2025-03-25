@@ -1,0 +1,12 @@
+
+// This is a file ending in `.slice`
+
+module Hello::There;
+
+unchecked enum MyEnum {
+    A, B, C
+}
+
+interface Foo {
+    bar() -> int32;
+}
