@@ -1,13 +1,13 @@
 
 // This is a file ending in `.slice`
 
+// Random comment.
 module Hello::There;
 
 unchecked enum MyEnum {
     A, B, C
 }
 
-// Random comment.
 interface Foo {
     bar() -> int32;
 }
