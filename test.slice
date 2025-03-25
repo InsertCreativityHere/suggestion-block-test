@@ -1,6 +1,7 @@
 
 // This is a file ending in `.slice`
 
+// Random comment.
 module Hello::There;
 
 unchecked enum MyEnum {
